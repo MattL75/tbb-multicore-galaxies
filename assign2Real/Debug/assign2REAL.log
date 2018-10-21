@@ -1,0 +1,27 @@
+﻿cl : Command line warning D9002: ignoring unknown option '/std:c++11'
+  main.cpp
+c:\users\mathi\source\repos\assign2real\assign2real\mingw.thread.h(175): warning C4099: 'std::hash<mingw_stdthread::thread::id>': type name first seen using 'struct' now seen using 'class'
+  c:\users\mathi\source\repos\assign2real\assign2real\mingw.thread.h(175): note: see declaration of 'std::hash<mingw_stdthread::thread::id>'
+c:\users\mathi\source\repos\assign2real\assign2real\mingw.thread.h(351): warning C4081: expected '('; found 'string'
+c:\users\mathi\source\repos\assign2real\assign2real\main.cpp(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\mathi\source\repos\assign2real\assign2real\main.cpp(135): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+c:\users\mathi\source\repos\assign2real\assign2real\main.cpp(175): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+c:\users\mathi\source\repos\assign2real\assign2real\main.cpp(211): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+c:\users\mathi\source\repos\assign2real\assign2real\main.cpp(259): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  assign2REAL.vcxproj -> c:\users\mathi\source\repos\assign2REAL\Debug\assign2REAL.exe
